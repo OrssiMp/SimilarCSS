@@ -13,6 +13,11 @@
  * Attention : L'ordre d'import peut influencer le rendu si des classes ont le même nom.
  * Pour un vrai framework personnalisé, il est conseillé de télécharger les fichiers et de les modifier/localiser.
  */
-body{
-  background-color: #000;}
+
+
+.mon-titre {
+  color: red !important;
+  font-size: 2rem;
+}
+
 
