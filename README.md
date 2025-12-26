@@ -1,27 +1,27 @@
 # SimilarCSS
 
-> EN COURS DE CONSTRUCTION 🚧
+> UNDER CONSTRUCTION 🚧
 
-SimilarCSS est un projet visant à simplifier la création et la maintenance de feuilles de style modulaires et réutilisables pour les applications web. Le projet est actuellement en cours de développement.
+SimilarCSS is a project aimed at simplifying the creation and maintenance of modular, reusable stylesheets for web applications. The project is currently under development.
 
-Statut
+Status
 ------
 
-- EN COURS DE CONSTRUCTION — Certaines fonctionnalités et la documentation ne sont pas encore disponibles.
+- UNDER CONSTRUCTION — Some features and documentation are not yet available.
 
 Installation
 ------------
 
-Instructions d'installation et d'utilisation à venir.
+Installation and usage instructions coming soon.
 
-Contribuer
----------
+Contributing
+------------
 
-Les contributions sont les bienvenues ! Ouvrez une issue ou une pull request pour proposer des améliorations.
+Contributions are welcome! Please open an issue or a pull request to propose improvements.
 
-Licence
+License
 -------
 
 MIT
 
-(README mis à jour pour indiquer que SimilarCSS est en cours de construction.)
+(This README was updated to indicate that SimilarCSS is under construction.)
